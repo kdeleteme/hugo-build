@@ -1,3 +1,3 @@
-# hugo-build
+# hugo-sass-postcss
 
-Docker image for building a site with hugo
+Docker image for building static sites with hugo, sass, and postcss.
